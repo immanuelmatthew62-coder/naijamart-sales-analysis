@@ -1,0 +1,290 @@
+TransactionID,SaleDate,Customer_Name,Category,Amount,Branch_Location,Payment_Type
+TXN-1000,2025-05-19,"Grace Okon",Drinks,20210.29,Lagos,POS
+TXN-1001,2025-07-19,"Olawale R.",Household,55509.77,Lagos,POS
+TXN-1002,2025-05-25,"Bolanle Balogun",Toiletries,28250.93,Lagos,POS
+TXN-1003,2025-07-17,"Chinedu Okoro",Snacks,46176.60,Lagos,Transfer
+TXN-1004,2025-10-29,"Unknown Customer",Household,6046.00,Ibadan,POS
+TXN-1005,2025-10-25,"Unknown Customer",Grains,17611.74,Lagos,POS
+TXN-1006,2025-09-13,"Olawale R.",Grains,58067.14,Lagos,Cash
+TXN-1008,2025-06-19,"Yusuf Ali",Beverages,57496.46,Lagos,Cash
+TXN-1009,2025-09-08,"Yusuf Ali",Household,69822.56,Lagos,Cash
+TXN-1010,2026-02-02,"Chioma Obi",Household,63064.98,Abuja,Transfer
+TXN-1011,2025-11-02,"Ngozi Eze",Household,52649.57,Abuja,POS
+TXN-1012,2025-05-07,"Chinedu Okoro","Oil & spices",32347.07,Lagos,Cash
+TXN-1015,2025-09-19,"Chioma Obi",Beverages,3783.36,Lagos,Cash
+TXN-1016,2026-02-13,"Olawale R.",Toiletries,55558.76,Lagos,Cash
+TXN-1017,2025-07-15,"Ibrahim Danko","Oil & spices",8690.31,Ibadan,POS
+TXN-1018,2025-12-31,"Grace Okon",Oil,37198.89,Abuja,POS
+TXN-1019,2026-01-05,"Grace Okon",Drinks,58160.56,Lagos,Transfer
+TXN-1020,2026-01-05,"grace okon",Drinks,58160.56,Lagos,Transfer
+TXN-1021,2025-06-13,"Ibrahim Danko",Drinks,63523.96,Lagos,POS
+TXN-1022,NULL,"Tunde Afolayan",Toiletries,60592.21,Abuja,Transfer
+TXN-1023,2025-01-17,"Yusuf Ali","Oil & spices",27168.91,Abuja,Transfer
+TXN-1024,2025-12-09,"Tunde Afolayan",Snacks,50181.16,Lagos,Cash
+TXN-1025,2025-03-23,"Chinedu Okoro",Oil,16457.90,Abuja,Cash
+TXN-1026,2025-03-23,"chinedu okoro",Oil,16457.90,Abuja,Cash
+TXN-1027,2026-02-11,"Fatima Y.",Snacks,22092.88,Abuja,Cash
+TXN-1028,2025-03-05,"Amina Musa",Toiletries,31730.64,Lagos,Cash
+TXN-1029,2025-05-05,"Ibrahim Danko",Snacks,4953.35,Lagos,Cash
+TXN-1030,2025-02-24,"Chioma Obi","Oil & spices",64008.92,Abuja,Transfer
+TXN-1031,2025-10-05,"Chinedu Okoro","Baby care",24315.05,Abuja,Cash
+TXN-1032,2025-07-18,"Olawale R.",Grains,17501.61,Lagos,Transfer
+TXN-1033,2025-10-11,"Bolanle Balogun",Household,21656.37,Lagos,POS
+TXN-1034,2025-10-01,"Bolanle Balogun",Household,41782.08,Lagos,POS
+TXN-1036,2025-01-11,"Grace Okon",Household,18307.40,Abuja,POS
+TXN-1037,2025-07-25,"Chinedu Okoro","Baby care",65134.71,Abuja,Cash
+TXN-1038,2026-01-26,"Bolanle Balogun",Grains,44918.80,Lagos,Cash
+TXN-1039,2026-01-03,"Ibrahim Danko",Snacks,15106.52,Lagos,Transfer
+TXN-1040,2026-01-17,"Chioma Obi","Oil & spices",23015.64,Lagos,Transfer
+TXN-1041,2025-01-05,"Chinedu Okoro",Snacks,36418.12,Lagos,Transfer
+TXN-1042,2025-08-15,"Bolanle Balogun",Snacks,10479.87,Lagos,Cash
+TXN-1043,2025-08-19,"Ibrahim Danko","Baby care",15276.04,Lagos,Cash
+TXN-1044,2025-09-23,"Olawale R.",Grains,68046.80,Lagos,Transfer
+TXN-1045,2025-04-22,"Yusuf Ali",Oil,64201.04,Lagos,Cash
+TXN-1046,2025-02-01,"Unknown Customer","Oil & spices",31179.71,Lagos,POS
+TXN-1047,2025-04-23,"Ibrahim Danko",Drinks,47983.80,Abuja,POS
+TXN-1048,2026-01-27,"Tunde Afolayan","Baby care",16235.73,Lagos,POS
+TXN-1049,2025-08-17,"Olawale R.",Grains,17727.07,Lagos,Cash
+TXN-1050,2026-02-03,"Amina Musa",Household,15241.01,Abuja,POS
+TXN-1051,2025-04-23,"Fatima Y.",Oil,35019.23,Lagos,Cash
+TXN-1052,2025-10-19,"Olawale R.",Toiletries,44788.49,Lagos,Transfer
+TXN-1053,2025-07-18,"Bolanle Balogun",Toiletries,18452.00,Kano,Transfer
+TXN-1054,NULL,"Ibrahim Danko",Oil,3109.78,Abuja,Transfer
+TXN-1055,2025-11-27,"Ngozi Eze",Toiletries,62427.04,Lagos,POS
+TXN-1056,2025-06-04,"Yusuf Ali","Oil & spices",21552.71,Lagos,POS
+TXN-1057,2026-01-22,"Yusuf Ali",Grains,27931.77,Lagos,POS
+TXN-1058,2025-04-21,"Grace Okon",Toiletries,31465.94,Lagos,Transfer
+TXN-1059,2025-12-22,"Fatima Y.",Grains,42698.47,Lagos,POS
+TXN-1060,2025-06-14,"Olawale R.",Drinks,22451.53,Abuja,POS
+TXN-1061,2025-06-14,"olawale r.",Drinks,22451.53,Abuja,POS
+TXN-1062,2026-01-18,"Ibrahim Danko",Household,6003.07,Lagos,Cash
+TXN-1063,2026-01-18,"Ibrahim Danko",Household,6003.07,Lagos,Cash
+TXN-1064,2026-03-01,"Yusuf Ali",Toiletries,53593.11,Lagos,Transfer
+TXN-1065,2025-05-25,"Yusuf Ali",Beverages,31696.21,Lagos,Transfer
+TXN-1066,2025-03-25,"Ngozi Eze",Grains,52020.85,Abuja,Cash
+TXN-1067,2025-11-02,"Ibrahim Danko",Snacks,34132.48,Ibadan,Cash
+TXN-1068,2025-09-09,"Chioma Obi",Household,31803.58,Ibadan,POS
+TXN-1069,2025-12-26,"Yusuf Ali",Toiletries,18171.34,Lagos,Transfer
+TXN-1070,2025-12-26,"yusuf ali",Toiletries,18171.34,Lagos,Transfer
+TXN-1071,2025-05-17,"Grace Okon","Baby care",26853.24,Lagos,Transfer
+TXN-1072,2026-03-18,"Grace Okon","Baby care",65069.76,Lagos,Cash
+TXN-1073,2026-02-02,"Chioma Obi",Oil,61383.50,Ibadan,Transfer
+TXN-1074,2025-07-24,"Ngozi Eze",Household,65417.43,Lagos,Transfer
+TXN-1075,2025-03-08,"Olawale R.","Baby care",12999.09,Lagos,Transfer
+TXN-1076,2025-03-08,"olawale r.","Baby care",12999.09,Lagos,Transfer
+TXN-1077,2025-03-17,"Fatima Y.",Household,46341.33,Ibadan,Transfer
+TXN-1078,2025-10-28,"Chioma Obi",Snacks,22511.17,Lagos,POS
+TXN-1079,NULL,"Ngozi Eze",Household,66897.42,Kano,Cash
+TXN-1080,2025-01-21,"Fatima Y.",Toiletries,6928.48,Lagos,Cash
+TXN-1081,2025-05-15,"Chioma Obi",Beverages,14067.89,Lagos,Cash
+TXN-1082,2025-05-15,"chioma obi",Beverages,14067.89,Lagos,Cash
+TXN-1083,2025-05-15,"chioma obi",Beverages,14067.89,Lagos,Cash
+TXN-1084,2025-09-13,"Tunde Afolayan",Oil,35944.61,Lagos,Cash
+TXN-1085,2026-02-17,"Unknown Customer",Beverages,57537.62,Lagos,Cash
+TXN-1086,2025-06-19,"Amina Musa",Household,28410.16,Lagos,POS
+TXN-1087,2026-01-05,"Tunde Afolayan",Toiletries,43821.69,Lagos,Transfer
+TXN-1088,NULL,"Chinedu Okoro",Oil,2718.20,Abuja,POS
+TXN-1090,NULL,"Chinedu Okoro",Household,39524.51,Abuja,Cash
+TXN-1091,NULL,"Chinedu Okoro",Household,39524.51,Abuja,Cash
+TXN-1092,2025-02-07,"Yusuf Ali",Beverages,13941.36,Lagos,Transfer
+TXN-1093,2025-05-08,"Chinedu Okoro",Grains,50885.22,Lagos,POS
+TXN-1094,2026-02-12,"Bolanle Balogun","Oil & spices",34206.63,Lagos,Transfer
+TXN-1095,2026-02-15,"Unknown Customer","Baby care",8732.52,Lagos,Transfer
+TXN-1096,2026-01-25,"Yusuf Ali",Household,18622.77,Lagos,Cash
+TXN-1097,2025-12-01,"Grace Okon",Household,62516.54,Abuja,Cash
+TXN-1098,2025-12-03,"Chioma Obi","Oil & spices",45038.71,Lagos,Cash
+TXN-1099,2025-11-04,"Yusuf Ali",Oil,29142.57,Lagos,Transfer
+TXN-1100,2025-08-27,"Emeka J.",Grains,7874.19,Ibadan,Transfer
+TXN-1101,2025-04-04,"Ngozi Eze",Beverages,34767.26,Abuja,Transfer
+TXN-1102,2025-08-17,"Bolanle Balogun",Household,3837.29,Abuja,Transfer
+TXN-1103,2025-01-28,"Olawale R.",Snacks,36944.14,Ibadan,POS
+TXN-1104,2025-01-08,"Yusuf Ali",Snacks,59539.90,Lagos,POS
+TXN-1105,2025-10-16,"Chinedu Okoro",Grains,58016.68,Kano,POS
+TXN-1106,2025-11-24,"Chinedu Okoro",Household,12408.12,Lagos,Cash
+TXN-1107,2025-11-29,"Chinedu Okoro",Drinks,8146.74,Lagos,POS
+TXN-1108,2025-12-18,"Grace Okon",Snacks,11399.74,Lagos,Cash
+TXN-1109,NULL,"Ibrahim Danko",Toiletries,4880.05,Lagos,Cash
+TXN-1110,2025-05-16,"Amina Musa",Toiletries,19059.18,Abuja,POS
+TXN-1111,2025-05-16,"amina musa",Toiletries,19059.18,Abuja,POS
+TXN-1112,2025-09-04,"Chinedu Okoro",Household,57923.73,Lagos,Cash
+TXN-1113,2025-01-01,"Chioma Obi",Grains,21411.98,Lagos,Cash
+TXN-1114,2026-03-03,"Chioma Obi",Drinks,58469.42,Lagos,POS
+TXN-1115,2025-01-02,"Chinedu Okoro",Toiletries,33246.10,Lagos,Cash
+TXN-1116,2025-01-02,"Chinedu Okoro",Toiletries,33246.10,Lagos,Cash
+TXN-1117,2025-07-18,"Tunde Afolayan",Snacks,27220.08,Lagos,POS
+TXN-1118,2025-11-22,"Chioma Obi",Household,28942.97,Kano,Transfer
+TXN-1119,2026-02-02,"Fatima Y.",Toiletries,14476.05,Lagos,Cash
+TXN-1120,2025-07-04,"Emeka J.",Grains,47591.50,Lagos,Cash
+TXN-1121,NULL,"Yusuf Ali",Beverages,17660.79,Lagos,Cash
+TXN-1122,2025-12-22,"Olawale R.",Grains,45824.79,Kano,POS
+TXN-1123,2025-01-29,"Emeka J.","Oil & spices",17494.71,Lagos,Cash
+TXN-1124,2026-01-26,"Tunde Afolayan",Beverages,9471.07,Lagos,Transfer
+TXN-1126,2025-04-24,"Olawale R.",Snacks,71906.41,Lagos,Cash
+TXN-1127,2025-12-25,"Bolanle Balogun",Oil,6704.06,Lagos,Transfer
+TXN-1128,2025-10-13,"Chinedu Okoro",Household,27077.79,Kano,Transfer
+TXN-1129,2026-01-17,"Ibrahim Danko",Oil,62485.79,Lagos,POS
+TXN-1130,2025-09-10,"Yusuf Ali",Grains,9526.00,Lagos,POS
+TXN-1131,2025-03-22,"Bolanle Balogun",Beverages,58626.57,Ibadan,POS
+TXN-1133,2025-02-21,"Tunde Afolayan",Oil,8769.24,Ibadan,POS
+TXN-1134,2025-04-29,"Yusuf Ali",Drinks,70068.54,Lagos,Transfer
+TXN-1135,2026-01-17,"Olawale R.",Drinks,22815.88,Abuja,POS
+TXN-1136,2026-01-17,"olawale r.",Drinks,22815.88,Abuja,POS
+TXN-1137,NULL,"Tunde Afolayan",Household,45562.11,Lagos,POS
+TXN-1138,2025-05-29,"Olawale R.",Household,72314.95,Lagos,Transfer
+TXN-1139,2025-01-12,"Amina Musa",Household,6208.18,Lagos,Transfer
+TXN-1140,2026-01-26,"Amina Musa",Household,10528.25,Abuja,Transfer
+TXN-1141,2026-03-14,"Olawale R.","Oil & spices",10820.48,Lagos,Transfer
+TXN-1142,2025-11-07,"Olawale R.",Household,48388.76,Lagos,Cash
+TXN-1143,2025-11-26,"Bolanle Balogun",Snacks,6309.96,Lagos,Transfer
+TXN-1144,2025-10-13,"Unknown Customer",Household,70305.23,Lagos,POS
+TXN-1145,2025-10-27,"Emeka J.",Drinks,15778.30,Kano,Cash
+TXN-1146,NULL,"Tunde Afolayan",Beverages,69086.74,Lagos,Cash
+TXN-1147,2025-10-02,"Ngozi Eze","Baby care",46147.52,Lagos,Transfer
+TXN-1148,2025-10-02,"ngozi eze","Baby care",46147.52,Lagos,Transfer
+TXN-1149,2025-06-30,"Fatima Y.",Toiletries,2708.43,Abuja,Cash
+TXN-1150,2025-05-14,"Tunde Afolayan",Grains,74270.68,Abuja,POS
+TXN-1151,NULL,"Tunde Afolayan","Baby care",10512.01,Abuja,POS
+TXN-1152,2025-04-15,"Bolanle Balogun",Snacks,46224.71,Abuja,Cash
+TXN-1153,2025-08-29,"Unknown Customer",Toiletries,65424.39,Ibadan,Transfer
+TXN-1154,2025-07-19,"Ibrahim Danko","Oil & spices",41641.02,Lagos,Cash
+TXN-1155,2025-12-16,"Yusuf Ali",Snacks,2047.73,Lagos,POS
+TXN-1156,2026-02-15,"Bolanle Balogun",Toiletries,31465.30,Abuja,Cash
+TXN-1157,2026-02-07,"Tunde Afolayan",Snacks,56318.91,Abuja,Cash
+TXN-1158,2025-03-07,"Tunde Afolayan",Snacks,61232.46,Abuja,Transfer
+TXN-1159,2025-06-26,"Ngozi Eze","Baby care",41971.76,Abuja,POS
+TXN-1160,2025-06-07,"Chinedu Okoro",Snacks,66084.50,Lagos,Transfer
+TXN-1161,2025-10-12,"Fatima Y.",Grains,59437.66,Lagos,Cash
+TXN-1162,2025-01-04,"Yusuf Ali","Oil & spices",4361.78,Abuja,Cash
+TXN-1163,2026-01-09,"Ngozi Eze",Household,36733.30,Lagos,Cash
+TXN-1164,2025-06-21,"Olawale R.",Household,25053.06,Lagos,POS
+TXN-1165,2025-07-20,"Grace Okon",Toiletries,14983.46,Abuja,POS
+TXN-1166,2025-01-17,"Grace Okon",Household,5542.24,Lagos,Transfer
+TXN-1167,2025-12-11,"Tunde Afolayan",Grains,7347.50,Kano,Transfer
+TXN-1168,NULL,"Ngozi Eze",Snacks,22581.55,Lagos,Cash
+TXN-1169,2026-01-15,"Fatima Y.",Snacks,42783.33,Lagos,POS
+TXN-1170,2026-01-07,"Ngozi Eze",Oil,30539.19,Lagos,Transfer
+TXN-1171,2025-03-01,"Chinedu Okoro",Household,7079.33,Abuja,Transfer
+TXN-1172,2025-01-04,"Yusuf Ali",Drinks,71692.95,Lagos,Cash
+TXN-1173,2025-01-04,"yusuf ali",Drinks,71692.95,Lagos,Cash
+TXN-1174,2025-01-12,"Olawale R.",Beverages,69102.53,Lagos,Cash
+TXN-1175,2025-06-18,"Emeka J.",Beverages,22615.56,Lagos,Cash
+TXN-1176,2025-05-25,"Amina Musa",Oil,13409.95,Lagos,Transfer
+TXN-1177,2025-01-30,"Ngozi Eze",Household,61244.83,Abuja,Transfer
+TXN-1178,2025-01-21,"Bolanle Balogun",Snacks,63463.81,Lagos,Cash
+TXN-1179,2025-10-17,"Amina Musa","Oil & spices",4016.98,Lagos,POS
+TXN-1180,2025-07-28,"Tunde Afolayan",Oil,37597.26,Lagos,Cash
+TXN-1181,2025-12-13,"Chioma Obi",Oil,19940.33,Lagos,Transfer
+TXN-1182,2025-06-04,"Bolanle Balogun",Oil,20568.05,Kano,POS
+TXN-1183,NULL,"Ngozi Eze",Oil,31691.25,Lagos,POS
+TXN-1184,2026-01-16,"Amina Musa",Grains,23048.85,Lagos,Cash
+TXN-1185,2025-11-27,"Chioma Obi",Snacks,7639.41,Lagos,POS
+TXN-1186,2025-03-29,"Yusuf Ali","Oil & spices",5998.80,Kano,Cash
+TXN-1187,2025-01-08,"Amina Musa",Household,50191.63,Lagos,Cash
+TXN-1188,2025-12-18,"Yusuf Ali",Household,69936.81,Kano,Cash
+TXN-1189,2026-03-25,"Emeka J.",Oil,21702.09,Lagos,Cash
+TXN-1190,2025-05-13,"Unknown Customer",Oil,65777.48,Lagos,Cash
+TXN-1191,2025-05-11,"Amina Musa",Oil,9660.95,Lagos,POS
+TXN-1192,2025-09-01,"Yusuf Ali",Household,35474.35,Lagos,Transfer
+TXN-1193,2026-01-13,"Ibrahim Danko",Household,72683.97,Lagos,Cash
+TXN-1195,2025-02-03,"Fatima Y.",Snacks,249.21,Lagos,Cash
+TXN-1196,2025-12-20,"Emeka J.",Snacks,16274.52,Lagos,POS
+TXN-1197,2025-11-20,"Chinedu Okoro",Household,26441.25,Lagos,Cash
+TXN-1198,2025-10-27,"Chinedu Okoro","Baby care",54756.16,Lagos,POS
+TXN-1199,2026-02-22,"Grace Okon","Oil & spices",60697.87,Lagos,Transfer
+TXN-1200,2025-06-29,"Emeka J.","Baby care",68488.71,Lagos,Transfer
+TXN-1201,2025-02-22,"Grace Okon",Snacks,71901.50,Ibadan,Transfer
+TXN-1202,2025-02-21,"Olawale R.",Oil,6727.44,Lagos,Transfer
+TXN-1203,2025-11-30,"Chinedu Okoro","Oil & spices",13375.47,Ibadan,Cash
+TXN-1204,2025-11-25,"Chioma Obi",Household,52782.83,Lagos,Cash
+TXN-1205,2025-03-08,"Olawale R.",Household,43012.31,Lagos,Cash
+TXN-1206,2025-02-24,"Olawale R.",Toiletries,17893.82,Lagos,Cash
+TXN-1207,2025-06-02,"Grace Okon",Snacks,49484.74,Lagos,POS
+TXN-1208,2025-01-04,"Chioma Obi","Oil & spices",31522.58,Lagos,POS
+TXN-1209,2025-09-24,"Bolanle Balogun",Household,641.15,Lagos,Transfer
+TXN-1210,2025-09-24,"Bolanle Balogun",Household,641.15,Lagos,Transfer
+TXN-1211,2025-05-20,"Tunde Afolayan",Snacks,73596.07,Ibadan,Cash
+TXN-1212,2025-05-03,"Amina Musa","Oil & spices",63286.40,Lagos,Cash
+TXN-1213,2026-03-07,"Olawale R.",Beverages,30337.34,Kano,Cash
+TXN-1214,NULL,"Grace Okon",Drinks,7458.73,Ibadan,Transfer
+TXN-1215,2025-08-26,"Chinedu Okoro","Baby care",62643.80,Abuja,POS
+TXN-1216,2025-12-31,"Unknown Customer",Household,34122.00,Abuja,POS
+TXN-1217,2025-01-03,"Ngozi Eze",Household,9347.01,Lagos,POS
+TXN-1218,2026-01-19,"Amina Musa",Grains,41923.92,Lagos,POS
+TXN-1219,2026-03-23,"Amina Musa",Drinks,69767.19,Lagos,Cash
+TXN-1220,NULL,"Chioma Obi",Toiletries,35807.22,Abuja,POS
+TXN-1221,2025-05-29,"Ibrahim Danko","Oil & spices",32610.74,Lagos,POS
+TXN-1222,2025-06-21,"Chioma Obi",Beverages,7596.36,Lagos,Transfer
+TXN-1223,NULL,"Grace Okon","Baby care",51811.25,Lagos,Transfer
+TXN-1224,NULL,"Grace Okon","Baby care",51811.25,Lagos,Transfer
+TXN-1226,2025-03-01,"Emeka J.",Snacks,51558.32,Lagos,POS
+TXN-1227,NULL,"Olawale R.",Toiletries,56870.21,Lagos,POS
+TXN-1228,2025-06-07,"Fatima Y.",Beverages,25675.00,Lagos,Cash
+TXN-1229,2026-03-16,"Ngozi Eze",Household,38078.87,Lagos,POS
+TXN-1230,2025-06-08,"Amina Musa","Baby care",18431.85,Lagos,POS
+TXN-1231,2025-06-08,"Amina Musa","Baby care",18431.85,Lagos,POS
+TXN-1232,2025-06-08,"Amina Musa","Baby care",18431.85,Lagos,POS
+TXN-1233,2025-12-17,"Unknown Customer",Oil,49773.80,Lagos,POS
+TXN-1234,2025-08-25,"Grace Okon",Beverages,38549.38,Ibadan,Transfer
+TXN-1235,2025-05-17,"Chioma Obi",Grains,64412.83,Kano,Transfer
+TXN-1236,2025-08-12,"Chinedu Okoro",Household,54451.25,Lagos,Transfer
+TXN-1237,2026-01-21,"Olawale R.",Household,51989.01,Lagos,Transfer
+TXN-1238,2025-04-20,"Chioma Obi",Drinks,50721.68,Lagos,Transfer
+TXN-1239,2025-01-09,"Ngozi Eze","Baby care",30996.62,Lagos,Transfer
+TXN-1240,NULL,"Yusuf Ali","Baby care",59700.11,Lagos,Cash
+TXN-1241,2026-02-18,"Emeka J.",Household,62804.04,Lagos,POS
+TXN-1242,2025-12-12,"Yusuf Ali",Toiletries,18596.89,Lagos,POS
+TXN-1243,2025-03-22,"Fatima Y.",Snacks,6138.54,Lagos,Cash
+TXN-1244,2026-01-24,"Grace Okon","Baby care",33513.20,Abuja,Transfer
+TXN-1245,2025-11-20,"Amina Musa","Oil & spices",45628.22,Lagos,Cash
+TXN-1246,2025-06-09,"Fatima Y.",Toiletries,59153.75,Lagos,Cash
+TXN-1247,2025-09-01,"Emeka J.","Baby care",72044.46,Kano,Transfer
+TXN-1248,2025-08-21,"Grace Okon",Toiletries,60516.27,Kano,Transfer
+TXN-1249,2025-01-02,"Emeka J.",Drinks,25628.90,Lagos,Transfer
+TXN-1250,2026-02-08,"Chioma Obi",Snacks,30610.05,Ibadan,Transfer
+TXN-1251,2025-06-16,"Tunde Afolayan",Beverages,68737.42,Lagos,POS
+TXN-1252,2025-12-24,"Bolanle Balogun",Snacks,27688.16,Lagos,POS
+TXN-1253,2026-02-05,"Tunde Afolayan",Oil,6090.18,Abuja,Cash
+TXN-1254,2026-03-01,"Grace Okon",Snacks,14307.50,Lagos,Cash
+TXN-1256,2025-05-11,"Amina Musa","Baby care",30116.34,Lagos,Transfer
+TXN-1257,2025-12-08,"Yusuf Ali","Oil & spices",3370.00,Lagos,POS
+TXN-1259,2025-01-01,"Olawale R.",Oil,1838.17,Lagos,Transfer
+TXN-1260,2025-01-01,"olawale r.",Oil,1838.17,Lagos,Transfer
+TXN-1261,2025-02-28,"Amina Musa",Grains,41949.85,Lagos,POS
+TXN-1262,2025-01-10,"Emeka J.","Oil & spices",39847.41,Lagos,POS
+TXN-1263,2026-02-14,"Fatima Y.",Grains,45055.05,Lagos,Transfer
+TXN-1264,2025-11-03,"Ibrahim Danko",Oil,59235.09,Lagos,POS
+TXN-1265,2025-02-21,"Chioma Obi",Grains,30019.36,Kano,POS
+TXN-1266,2025-07-10,"Fatima Y.",Snacks,6655.43,Lagos,Transfer
+TXN-1267,2026-03-05,"Chioma Obi",Toiletries,33404.38,Lagos,POS
+TXN-1268,2025-09-10,"Yusuf Ali",Oil,6144.17,Lagos,Cash
+TXN-1269,2025-06-03,"Amina Musa",Grains,4843.00,Lagos,POS
+TXN-1270,NULL,"Ngozi Eze",Toiletries,34635.30,Ibadan,Cash
+TXN-1271,NULL,"Ngozi Eze",Toiletries,34635.30,Ibadan,Cash
+TXN-1272,2025-06-10,"Fatima Y.","Oil & spices",16965.51,Lagos,Cash
+TXN-1273,2025-02-19,"Yusuf Ali",Beverages,55180.88,Lagos,POS
+TXN-1274,NULL,"Yusuf Ali",Grains,20062.70,Lagos,Transfer
+TXN-1275,NULL,"Olawale R.",Beverages,41445.40,Lagos,Transfer
+TXN-1276,2025-06-05,"Olawale R.",Household,31491.92,Ibadan,Cash
+TXN-1277,2025-06-05,"olawale r.",Household,31491.92,Ibadan,Cash
+TXN-1278,2025-09-27,"Amina Musa",Snacks,22029.14,Ibadan,Transfer
+TXN-1279,NULL,"Ibrahim Danko",Snacks,34607.41,Lagos,POS
+TXN-1280,2025-02-19,"Ngozi Eze",Snacks,12035.99,Lagos,Cash
+TXN-1281,2025-09-04,"Tunde Afolayan","Oil & spices",15369.14,Lagos,POS
+TXN-1282,2025-08-22,"Bolanle Balogun",Household,31746.03,Lagos,POS
+TXN-1283,2025-03-31,"Yusuf Ali",Toiletries,22216.89,Abuja,Transfer
+TXN-1284,2025-12-02,"Unknown Customer",Beverages,12454.46,Lagos,Transfer
+TXN-1285,NULL,"Ngozi Eze",Snacks,3988.85,Lagos,Transfer
+TXN-1286,NULL,"ngozi eze",Snacks,3988.85,Lagos,Transfer
+TXN-1287,2026-02-13,"Emeka J.",Household,70181.63,Lagos,Transfer
+TXN-1288,2025-11-19,"Chinedu Okoro","Baby care",10148.31,Lagos,Transfer
+TXN-1289,2025-12-10,"Olawale R.",Drinks,5585.46,Abuja,Transfer
+TXN-1290,2025-04-24,"Bolanle Balogun",Drinks,43723.15,Abuja,POS
+TXN-1291,2026-02-22,"Amina Musa",Snacks,72298.87,Abuja,Cash
+TXN-1292,2025-10-15,"Chinedu Okoro",Drinks,16412.05,Abuja,Cash
+TXN-1293,2025-08-02,"Emeka J.",Household,37711.31,Lagos,Transfer
+TXN-1294,2026-01-28,"Amina Musa",Household,41514.86,Lagos,Transfer
+TXN-1295,NULL,"Unknown Customer",Toiletries,51509.05,Abuja,Cash
+TXN-1296,2025-01-12,"Amina Musa","Oil & spices",13056.91,Abuja,Cash
+TXN-1297,2025-05-28,"Ibrahim Danko",Grains,2694.77,Lagos,Transfer
+TXN-1298,2025-05-16,"Amina Musa",Grains,37988.73,Lagos,POS
+TXN-1299,2025-02-02,"Emeka J.",Beverages,8930.10,Lagos,POS
