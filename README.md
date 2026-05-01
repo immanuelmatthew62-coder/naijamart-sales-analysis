@@ -1,5 +1,5 @@
 
-Project Title
+**Project Title**
 NaijaMart Sales Data Analysis
 
 Project Overview
@@ -7,7 +7,8 @@ This project analyzes retail sales performance for NaijaMart using SQL, Excel, a
 
 The goal of this project was to clean messy retail sales data, analyze customer transactions, and build an interactive dashboard that provides business insights for better decision-making.
 
-Business Problems Solved
+Business Problems Solved:
+
 Identify top-performing product categories
 
 Determine highest revenue-generating branch
