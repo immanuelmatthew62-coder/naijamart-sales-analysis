@@ -153,7 +153,7 @@ Dashboard Preview
 Files Included
 Raw dataset
 
-Cleaned dataset
+[Cleaned dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/NAIJAMART%20CLEAN..csv)
 
 SQL queries
 
