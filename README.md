@@ -154,7 +154,7 @@ Files Included
 
 [Raw dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/NaijaMart..csv)
 
-[Cleaned dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/NAIJAMART%20CLEAN..csv)
+[Cleaned dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/data/NAIJAMART%20CLEAN..csv)
 
 [SQL queries](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/NAIJAMART_SQLQUERIES.sql)
 
