@@ -152,7 +152,7 @@ Dashboard Preview
 
 Files Included
 
-[Raw dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/NaijaMart..csv)
+[Raw dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/data/NaijaMart..csv)
 
 [Cleaned dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/data/NAIJAMART%20CLEAN..csv)
 
