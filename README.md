@@ -161,6 +161,7 @@ Files Included
 Excel dashboard
 
 [Dashboard screenshot](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/dashboard/Naijamart%20Excel%20Dashboard.png)
+
 Author
 Emmanuel Okoro
 
