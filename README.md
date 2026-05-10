@@ -156,7 +156,7 @@ Files Included
 
 [Cleaned dataset](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/data/NAIJAMART%20CLEAN..csv)
 
-[SQL queries](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/NAIJAMART_SQLQUERIES.sql)
+[SQL queries](https://github.com/immanuelmatthew62-coder/naijamart-sales-analysis/blob/main/sql/NAIJAMART_SQLQUERIES.sql)
 
 Excel dashboard
 
